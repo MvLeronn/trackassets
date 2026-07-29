@@ -5,7 +5,7 @@
 ### Gestão e rastreabilidade de ativos retornáveis
 
 [![Site](https://img.shields.io/badge/Site-mvcssoftware.com.br-1f5aa6?style=flat-square)](https://www.mvcssoftware.com.br/)
-[![Android](https://img.shields.io/badge/Android-Google_Play-34a853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mvcssoftware.trackassets.driver)
+[![App](https://img.shields.io/badge/App-Google_Play-34a853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mvcssoftware.trackassets.driver)
 
 </div>
 
